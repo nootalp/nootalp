@@ -1,5 +1,5 @@
-## i'm nootalp and i 'till working on this README. 
+## I'm nootalp and i'm still working on this README. 
 not very clever, but organized. i'm human after all.
-#### *Feels free to visit and appreciate the Project README's.*
-## about me
+#### *Feel free to visit and appreciate the Project README's.*
+## About me
 ### 🐧: I love penguins.
